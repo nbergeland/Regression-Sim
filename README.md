@@ -36,7 +36,7 @@ fig = px.line(results_df, title='Regression: Actual vs. Predicted Demand')
 fig.update_layout(xaxis_title='Test Sample Index', yaxis_title='Demand')
 fig.show()
 
-![Screenshot of project] (https://github.com/nbergeland/Regression-Sim/blob/main/REGRESSION.png)
+![Plotly Visualization: Simulated Regression](REGRESSION.png)
 
 print("Regression Coefficients:", model.coef_)
 print("Intercept:", model.intercept_)
