@@ -36,7 +36,7 @@ fig = px.line(results_df, title='Regression: Actual vs. Predicted Demand')
 fig.update_layout(xaxis_title='Test Sample Index', yaxis_title='Demand')
 fig.show()
 
-![Screenshot of project] (REGRESSION.png)
+![Screenshot of project] (images/REGRESSION.png)
 
 print("Regression Coefficients:", model.coef_)
 print("Intercept:", model.intercept_)
