@@ -58,6 +58,8 @@ The final output of the simulation includes:
 2. The regression coefficients for each feature
 3. The model intercept
 
+**Code Notebook:** 
+_Copy & Run_
 ```
     import numpy as np
     import pandas as pd
