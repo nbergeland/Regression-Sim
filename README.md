@@ -59,6 +59,7 @@ The final output of the simulation includes:
 3. The model intercept
 
 **Code Notebook:** 
+
 _Copy & Run_
 ```
     import numpy as np
